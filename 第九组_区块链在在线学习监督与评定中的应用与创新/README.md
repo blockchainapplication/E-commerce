@@ -41,7 +41,7 @@
 ![Image text](https://github.com/blockchainapplication/E-commerce/blob/master/第九组_区块链在在线学习监督与评定中的应用与创新/运行情况截图/1.png)
 
 中间省略...
-![Image text](https://github.com/blockchainapplication/E-commerce/blob/master/第九组_区块链在在线学习监督与评定中的应用与创新/运行情况截图/2.png
+![Image text](https://github.com/blockchainapplication/E-commerce/blob/master/第九组_区块链在在线学习监督与评定中的应用与创新/运行情况截图/2.png)
  
  
 智能合约验证：
