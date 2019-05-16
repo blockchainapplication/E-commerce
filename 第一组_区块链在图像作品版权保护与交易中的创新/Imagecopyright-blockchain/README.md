@@ -1,4 +1,6 @@
-文件夹中包含：java工程文件，Stephen-Flower.jpg（目标图片），image（存储通过爬取获得的图片的文件夹），image_a（包含爬取图片，用于比对运行结果的文件夹），gson-2.6.2.jar，zxing-zxing-3.2.1.jar（需要导入的外部包）
+文件夹中包含：
+========
+java工程文件，Stephen-Flower.jpg（目标图片），image（存储通过爬取获得的图片的文件夹），image_a（包含爬取图片，用于比对运行结果的文件夹），gson-2.6.2.jar，zxing-zxing-3.2.1.jar（需要导入的外部包）
 ，运行结果示例文件夹中包含QRcode_a.jpg（用于比对运行结果的图片），combinelma_a.jpg（用于比对运行结果的图片），Hash_a.txt（用于比对运行的结果的txt文件），
 
 程序运行环境:
