@@ -1,5 +1,5 @@
 #基于区块链的商品信息溯源系统<br>
-#首先下载完整的E-commerce-blockchain于本地并复制路径所在位置<br><br><br>
+#首先下载完整的E-commerce-blockchain于本地并解压然后复制路径所在位置<br>
 #打开eclipse，import下载好的project<br><br>
 #1）： 点击 file<br>
 #2）：点击 import<br>
